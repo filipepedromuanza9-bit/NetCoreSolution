@@ -1,0 +1,51 @@
+C:\Users\pc\Videos\SistamaVendasMercado\SistamaVendasMercado\obj\Debug\SistamaVendasMercado.Form1.resources
+C:\Users\pc\Videos\SistamaVendasMercado\SistamaVendasMercado\obj\Debug\SistamaVendasMercado.FrmCadastroFuncionario.resources
+C:\Users\pc\Videos\SistamaVendasMercado\SistamaVendasMercado\obj\Debug\SistamaVendasMercado.MenuPrincipal.resources
+C:\Users\pc\Videos\SistamaVendasMercado\SistamaVendasMercado\obj\Debug\SistamaVendasMercado.csproj.GenerateResource.Cache
+C:\Users\pc\Videos\SistamaVendasMercado\SistamaVendasMercado\bin\Debug\SistamaVendasMercado.exe.config
+C:\Users\pc\Videos\SistamaVendasMercado\SistamaVendasMercado\bin\Debug\SistamaVendasMercado.exe
+C:\Users\pc\Videos\SistamaVendasMercado\SistamaVendasMercado\bin\Debug\SistamaVendasMercado.pdb
+C:\Users\pc\Videos\SistamaVendasMercado\SistamaVendasMercado\obj\Debug\SistamaVendasMercado.Properties.Resources.resources
+C:\Users\pc\Videos\SistamaVendasMercado\SistamaVendasMercado\obj\Debug\SistamaVendasMercado.exe
+C:\Users\pc\Videos\SistamaVendasMercado\SistamaVendasMercado\obj\Debug\SistamaVendasMercado.pdb
+C:\Users\pc\Videos\SistamaVendasMercado\SistamaVendasMercado\obj\Debug\SistamaVendasMercado.FrmVendas.resources
+C:\Users\pc\Videos\SistamaVendasMercado\SistamaVendasMercado\obj\Debug\SistamaVendasMercado.FrmCadastroCliente.resources
+C:\Users\pc\Videos\SistamaVendasMercado\SistamaVendasMercado\obj\Debug\SistamaVendasMercado.FrmDetalhesVenda.resources
+C:\Users\pc\Videos\SistamaVendasMercado\SistamaVendasMercado\obj\Debug\SistamaVendasMercado.FrmCadastroProduto.resources
+C:\Users\pc\Videos\SistamaVendasMercado\SistamaVendasMercado\obj\Debug\SistamaVendasMercado.FrmRelatorioVendas.resources
+C:\Users\pc\Videos\SistamaVendasMercado\SistamaVendasMercado\obj\Debug\SistamaVendasMercado.csprojResolveAssemblyReference.cache
+C:\Users\pc\Videos\SistamaVendasMercado\SistamaVendasMercado\obj\Debug\SistamaVendasMercado.FrmBuscarVenda.resources
+C:\Users\pc\Desktop\PENDRIV\3 ano\SistamaVendasMercado\SistamaVendasMercado\bin\Debug\SistamaVendasMercado.exe.config
+C:\Users\pc\Desktop\PENDRIV\3 ano\SistamaVendasMercado\SistamaVendasMercado\obj\Debug\SistamaVendasMercado.exe
+C:\Users\pc\Desktop\PENDRIV\3 ano\SistamaVendasMercado\SistamaVendasMercado\obj\Debug\SistamaVendasMercado.pdb
+C:\Users\pc\Desktop\PENDRIV\3 ano\SistamaVendasMercado\SistamaVendasMercado\bin\Debug\SistamaVendasMercado.exe
+C:\Users\pc\Desktop\PENDRIV\3 ano\SistamaVendasMercado\SistamaVendasMercado\bin\Debug\SistamaVendasMercado.pdb
+C:\Users\pc\Desktop\PENDRIV\3 ano\SistamaVendasMercado\SistamaVendasMercado\obj\Debug\SistamaVendasMercado.Form1.resources
+C:\Users\pc\Desktop\PENDRIV\3 ano\SistamaVendasMercado\SistamaVendasMercado\obj\Debug\SistamaVendasMercado.FrmBuscarVenda.resources
+C:\Users\pc\Desktop\PENDRIV\3 ano\SistamaVendasMercado\SistamaVendasMercado\obj\Debug\SistamaVendasMercado.FrmCadastroCliente.resources
+C:\Users\pc\Desktop\PENDRIV\3 ano\SistamaVendasMercado\SistamaVendasMercado\obj\Debug\SistamaVendasMercado.FrmCadastroFuncionario.resources
+C:\Users\pc\Desktop\PENDRIV\3 ano\SistamaVendasMercado\SistamaVendasMercado\obj\Debug\SistamaVendasMercado.FrmCadastroProduto.resources
+C:\Users\pc\Desktop\PENDRIV\3 ano\SistamaVendasMercado\SistamaVendasMercado\obj\Debug\SistamaVendasMercado.FrmDetalhesVenda.resources
+C:\Users\pc\Desktop\PENDRIV\3 ano\SistamaVendasMercado\SistamaVendasMercado\obj\Debug\SistamaVendasMercado.FrmRelatorioVendas.resources
+C:\Users\pc\Desktop\PENDRIV\3 ano\SistamaVendasMercado\SistamaVendasMercado\obj\Debug\SistamaVendasMercado.FrmVendas.resources
+C:\Users\pc\Desktop\PENDRIV\3 ano\SistamaVendasMercado\SistamaVendasMercado\obj\Debug\SistamaVendasMercado.MenuPrincipal.resources
+C:\Users\pc\Desktop\PENDRIV\3 ano\SistamaVendasMercado\SistamaVendasMercado\obj\Debug\SistamaVendasMercado.Properties.Resources.resources
+C:\Users\pc\Desktop\PENDRIV\3 ano\SistamaVendasMercado\SistamaVendasMercado\obj\Debug\SistamaVendasMercado.csproj.GenerateResource.Cache
+C:\Users\pc\Music\SistamaVendasMercado\SistamaVendasMercado\bin\Debug\SistamaVendasMercado.exe.config
+C:\Users\pc\Music\SistamaVendasMercado\SistamaVendasMercado\obj\Debug\SistamaVendasMercado.exe
+C:\Users\pc\Music\SistamaVendasMercado\SistamaVendasMercado\obj\Debug\SistamaVendasMercado.pdb
+C:\Users\pc\Music\SistamaVendasMercado\SistamaVendasMercado\bin\Debug\SistamaVendasMercado.exe
+C:\Users\pc\Music\SistamaVendasMercado\SistamaVendasMercado\bin\Debug\SistamaVendasMercado.pdb
+C:\Users\pc\Music\SistamaVendasMercado\SistamaVendasMercado\obj\Debug\SistamaVendasMercado.csprojResolveAssemblyReference.cache
+C:\Users\pc\Music\SistamaVendasMercado\SistamaVendasMercado\obj\Debug\SistamaVendasMercado.Form1.resources
+C:\Users\pc\Music\SistamaVendasMercado\SistamaVendasMercado\obj\Debug\SistamaVendasMercado.FrmBuscarVenda.resources
+C:\Users\pc\Music\SistamaVendasMercado\SistamaVendasMercado\obj\Debug\SistamaVendasMercado.FrmCadastroCliente.resources
+C:\Users\pc\Music\SistamaVendasMercado\SistamaVendasMercado\obj\Debug\SistamaVendasMercado.FrmCadastroFuncionario.resources
+C:\Users\pc\Music\SistamaVendasMercado\SistamaVendasMercado\obj\Debug\SistamaVendasMercado.FrmCadastroProduto.resources
+C:\Users\pc\Music\SistamaVendasMercado\SistamaVendasMercado\obj\Debug\SistamaVendasMercado.FrmDetalhesVenda.resources
+C:\Users\pc\Music\SistamaVendasMercado\SistamaVendasMercado\obj\Debug\SistamaVendasMercado.FrmRelatorioVendas.resources
+C:\Users\pc\Music\SistamaVendasMercado\SistamaVendasMercado\obj\Debug\SistamaVendasMercado.FrmVendas.resources
+C:\Users\pc\Music\SistamaVendasMercado\SistamaVendasMercado\obj\Debug\SistamaVendasMercado.MenuPrincipal.resources
+C:\Users\pc\Music\SistamaVendasMercado\SistamaVendasMercado\obj\Debug\SistamaVendasMercado.Properties.Resources.resources
+C:\Users\pc\Music\SistamaVendasMercado\SistamaVendasMercado\obj\Debug\SistamaVendasMercado.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\PENDRIV\3 ano\SistamaVendasMercado\SistamaVendasMercado\obj\Debug\SistamaVendasMercado.csprojResolveAssemblyReference.cache
